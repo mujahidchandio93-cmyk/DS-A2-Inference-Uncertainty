@@ -1,0 +1,3 @@
+method,type1_error_rate,monte_carlo_se,nominal_alpha,repetitions
+Welch's test,0.0478,0.0021334282270561626,0.05,10000
+Pooled-variance test,0.0049,0.0006982828939620389,0.05,10000
